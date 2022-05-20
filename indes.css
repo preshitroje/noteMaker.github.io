@@ -1,0 +1,42 @@
+body{
+    background-color: rgba(67, 57, 57, 0.553);
+}
+
+nav{
+    background-color: rgb(237, 245, 186);
+}
+
+.navbar.navbar-expand-lg.navbar-dark.bg-dark{
+    background-color: black;
+}
+
+.btn.btn-primary{
+    border-radius: 12px;
+    background-color: rgb(60, 95, 97);
+    border: 3px solid black;
+    color: rgb(225, 220, 220);
+}
+
+.navbar-brand{
+    color: rgb(245, 170, 185);
+}
+
+.card{
+    background-color: rgb(216, 228, 232);
+    border: 3px solid black;
+}
+
+#head1{
+    /* color: brown; */
+    /* color: rgb(227, 32, 32); */
+    /* font-family: 'Baloo 2', cursive;
+    font-family: 'Hurricane', cursive;
+    font-family: 'Oleo Script', cursive; */
+    font-weight: 650;
+    font-family: 'Oswald', sans-serif;
+}
+
+#head2{
+    font-weight: 650;
+    font-family: 'Oswald', sans-serif;
+}
